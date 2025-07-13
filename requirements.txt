@@ -1,0 +1,33 @@
+# Core
+pandas
+numpy
+requests
+aiohttp
+
+# ML & Analysis
+scikit-learn
+vaderSentiment
+textblob
+nltk
+
+# Word Embeddings
+gensim
+emoji
+
+# Twitter
+tweepy
+
+# Environment Variables
+python-dotenv
+
+# Gemini / Google Generative AI
+google-generativeai
+
+# Backtesting
+# Install qs-quant directly from GitHub
+backtrader
+
+
+# Optional (if needed for plotting or logs)
+matplotlib
+loguru
