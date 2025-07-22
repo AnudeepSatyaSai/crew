@@ -1,3 +1,15 @@
+gs-quant>=1.0.0
+yfinance
+ta
+textblob
+finviz
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+torch
+streamlit
+
 # Core
 pandas
 numpy
@@ -26,8 +38,13 @@ google-generativeai
 # Backtesting
 # Install qs-quant directly from GitHub
 backtrader
+ta
 
 
 # Optional (if needed for plotting or logs)
 matplotlib
 loguru
+
+MetaTrader5
+
+websocket-client
